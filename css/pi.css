@@ -1,0 +1,11 @@
+body{
+	font-family: 'Source Sans Pro';
+	font-weight: 300;
+	width: 90%;
+	max-width: 900px;
+	margin: 100px auto;
+}
+
+h1, h2, h3{
+	font-weight: 700;
+}
